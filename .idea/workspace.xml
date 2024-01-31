@@ -4,29 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16708f04-eb31-4945-912f-4e4d8375a043" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/XMLFiles/01_RunningClasses.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XMLFiles/02_MultipleRunningClasses.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XMLFiles/03_CreateXMLPlugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XMLFiles/04_CreateXMLPlugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XMLFiles/05_RunningGroups.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_26_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C08_DependsOn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C09_AssertionsInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C10_HardAndSoftAssertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C11_SoftAssertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C12_XMLFileGroupRun.java" afterDir="false" />
+    <list default="true" id="16708f04-eb31-4945-912f-4e4d8375a043" name="Changes" comment="31.01.2024">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/username_password.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XMLFiles/06_RunningGroupsExclude.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XMLFiles/07_RunningMultipleGroups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XMLFiles/08_RunningMethods.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XMLFiles/09_RunningPackages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XMLFiles/10_XMLFileParameters.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XMLFiles/11_XMLMultipleParametersTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C13_UsingParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C14_XMLParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C15_DataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C16_DataProviderUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C17_DataProviderFakerUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C18_DataProviderExel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Utilities/DataProviderUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Utilities/ExcelUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C01_Annotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C01_Annotations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C02_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C02_Priority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C03_DependsOnMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C03_DependsOnMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C04_Enabled.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C04_Enabled.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C05_TimeOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C05_TimeOut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C06_Description.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C06_Description.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C07_Groups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C07_Groups.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_26_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_27.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +55,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,58 +65,127 @@
     "TestNG.C06_Description.executor": "Run",
     "TestNG.C11_SoftAssertion.executor": "Run",
     "TestNG.C11_SoftAssertion.softAssertionTest.executor": "Run",
+    "TestNG.C13_UsingParameters.ParameterizedTest.executor": "Run",
+    "TestNG.C15_DataProvider.executor": "Run",
+    "TestNG.C15_DataProvider.parameterTest.executor": "Run",
+    "TestNG.C16_DataProviderUtilsTest.parameterTest.executor": "Run",
+    "TestNG.C17_DataProvideFakerUtilsTest.parameterTest.executor": "Run",
     "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/01_RunningClasses.xml.executor": "Run",
+    "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/02_MultipleRunningClasses.xml.executor": "Run",
+    "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/03_CreateXMLPlugin.xml.executor": "Run",
+    "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/04_CreateXMLPlugin.xml.executor": "Run",
+    "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/05_RunningGroups.xml.executor": "Run",
+    "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/10_XMLFileParameters.xml.executor": "Run",
+    "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/10_XMLMultipleParametersTest.xml.executor": "Run",
+    "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/11_XMLMultipleParametersTest.xml.executor": "Run",
+    "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/src/test/java/Clarusway/Tasks/Task_27.xml.executor": "Run",
+    "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/testng.xml.executor": "Run",
     "TestNG.Task_26.executor": "Run",
+    "TestNG.Task_27.Task_27.executor": "Run",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/MONSTER/IdeaProjects/TestNGProject/src/test/java/Clarusway",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/05_RunningGroups.xml">
-    <configuration name="C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/01_RunningClasses.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\src\test\java\Clarusway" />
+      <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\XMLFiles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\Resources" />
+      <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\XMLFiles" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C18_DataProviderExel.DataProviderExelTest">
+    <configuration name="C15_DataProvider.parameterTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProject" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/XMLFiles/01_RunningClasses.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clarusway.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Clarusway.Tests" />
+      <option name="MAIN_CLASS_NAME" value="Clarusway.Tests.C15_DataProvider" />
+      <option name="METHOD_NAME" value="parameterTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/02_MultipleRunningClasses.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C16_DataProviderUtilsTest.parameterTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProject" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/XMLFiles/02_MultipleRunningClasses.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clarusway.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Clarusway.Tests" />
+      <option name="MAIN_CLASS_NAME" value="Clarusway.Tests.C16_DataProviderUtilsTest" />
+      <option name="METHOD_NAME" value="parameterTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/03_CreateXMLPlugin.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C17_DataProviderFakerUtilsTest.parameterTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProject" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/XMLFiles/03_CreateXMLPlugin.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clarusway.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Clarusway.Tests" />
+      <option name="MAIN_CLASS_NAME" value="Clarusway.Tests.C17_DataProviderFakerUtilsTest" />
+      <option name="METHOD_NAME" value="parameterTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/04_CreateXMLPlugin.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C18_DataProviderExel" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProject" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/XMLFiles/04_CreateXMLPlugin.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clarusway.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Clarusway.Tests" />
+      <option name="MAIN_CLASS_NAME" value="Clarusway.Tests.C18_DataProviderExel" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/05_RunningGroups.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C18_DataProviderExel.DataProviderExelTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProject" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/XMLFiles/05_RunningGroups.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clarusway.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Clarusway.Tests" />
+      <option name="MAIN_CLASS_NAME" value="Clarusway.Tests.C18_DataProviderExel" />
+      <option name="METHOD_NAME" value="DataProviderExelTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -126,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/05_RunningGroups.xml" />
-        <item itemvalue="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/04_CreateXMLPlugin.xml" />
-        <item itemvalue="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/03_CreateXMLPlugin.xml" />
-        <item itemvalue="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/02_MultipleRunningClasses.xml" />
-        <item itemvalue="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/01_RunningClasses.xml" />
+        <item itemvalue="TestNG.C18_DataProviderExel.DataProviderExelTest" />
+        <item itemvalue="TestNG.C18_DataProviderExel" />
+        <item itemvalue="TestNG.C17_DataProviderFakerUtilsTest.parameterTest" />
+        <item itemvalue="TestNG.C16_DataProviderUtilsTest.parameterTest" />
+        <item itemvalue="TestNG.C15_DataProvider.parameterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +218,20 @@
       <option name="presentableId" value="Default" />
       <updated>1706550400946</updated>
     </task>
+    <task id="LOCAL-00001" summary="31.01.2024">
+      <option name="closed" value="true" />
+      <created>1706660076572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706660076572</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="31.01.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="31.01.2024" />
   </component>
 </project>

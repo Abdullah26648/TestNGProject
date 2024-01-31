@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Task_27">
+    <test verbose="1" name="Height_of_the_earliest_built_tower">
+        <classes>
+            <class name="Clarusway.Tasks.Task_27"></class>
+        </classes>
+    </test>
+</suite>

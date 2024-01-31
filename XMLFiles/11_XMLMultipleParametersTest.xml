@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parameter Test">
+    <test verbose="2" preserve-order="true"
+          name="Parameterized Test1">
+        <parameter name="username" value="john_doe"></parameter>
+        <parameter name="password" value="john.123"></parameter>
+        <parameter name="comment" value="Hello World"></parameter>
+
+        <classes>
+            <class name="Clarusway.Tests.C14_XMLParameterTest"></class>
+        </classes>
+
+    </test>
+
+    <test verbose="2" preserve-order="true"
+          name="Parameterized Test2">
+        <parameter name="username" value="Mary_hoe"></parameter>
+        <parameter name="password" value="Mary.123"></parameter>
+        <parameter name="comment" value="Hello Turkey"></parameter>
+
+        <classes>
+            <class name="Clarusway.Tests.C14_XMLParameterTest"></class>
+        </classes>
+
+    </test>
+</suite>

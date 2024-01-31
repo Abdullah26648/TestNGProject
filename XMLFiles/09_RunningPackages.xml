@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Running Packages">
+    <test verbose="2" preserve-order="true"
+          name="Tests Package Run">
+        <packages>
+            <package name="Clarusway.Tests"></package><!-- Buraya belirtilen ismin altındaki tüm packagelar çalışır.-->
+        </packages>
+    </test>
+</suite>

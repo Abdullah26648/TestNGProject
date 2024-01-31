@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Running Methods">
+    <test verbose="2" preserve-order="true"
+          name="Running Method 4 - 5">
+        <classes>
+            <class name="Clarusway.Tests.C02_Priority">
+                <methods>
+                    <include name="test04"/><!-- Çalıştırılacak methodların isimleri -->
+                    <include name="test05"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
