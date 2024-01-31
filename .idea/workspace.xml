@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16708f04-eb31-4945-912f-4e4d8375a043" name="Changes" comment="31.01.2024">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/username_password.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XMLFiles/06_RunningGroupsExclude.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XMLFiles/07_RunningMultipleGroups.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XMLFiles/08_RunningMethods.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XMLFiles/09_RunningPackages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XMLFiles/10_XMLFileParameters.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XMLFiles/11_XMLMultipleParametersTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C13_UsingParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C14_XMLParameterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C15_DataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C16_DataProviderUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C17_DataProviderFakerUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C18_DataProviderExel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Utilities/DataProviderUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Utilities/ExcelUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_28.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_26_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_27.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -70,6 +56,8 @@
     "TestNG.C15_DataProvider.parameterTest.executor": "Run",
     "TestNG.C16_DataProviderUtilsTest.parameterTest.executor": "Run",
     "TestNG.C17_DataProvideFakerUtilsTest.parameterTest.executor": "Run",
+    "TestNG.C18_DataProviderExel.DataProviderExelTest.executor": "Run",
+    "TestNG.C18_DataProviderExel.executor": "Run",
     "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/01_RunningClasses.xml.executor": "Run",
     "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/02_MultipleRunningClasses.xml.executor": "Run",
     "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/03_CreateXMLPlugin.xml.executor": "Run",
@@ -79,13 +67,14 @@
     "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/10_XMLMultipleParametersTest.xml.executor": "Run",
     "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/11_XMLMultipleParametersTest.xml.executor": "Run",
     "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/src/test/java/Clarusway/Tasks/Task_27.xml.executor": "Run",
+    "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/src/test/java/Clarusway/Tasks/Task_28.xml.executor": "Run",
     "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/testng.xml.executor": "Run",
     "TestNG.Task_26.executor": "Run",
     "TestNG.Task_27.Task_27.executor": "Run",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/MONSTER/IdeaProjects/TestNGProject/src/test/java/Clarusway",
+    "last_opened_file_path": "C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -94,33 +83,16 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\src\test\java\Clarusway" />
       <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\XMLFiles" />
+      <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\src\test\java\Clarusway" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\src\test\java\Clarusway\Tasks" />
       <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\Resources" />
       <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\XMLFiles" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C18_DataProviderExel.DataProviderExelTest">
-    <configuration name="C15_DataProvider.parameterTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Clarusway.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Clarusway.Tests" />
-      <option name="MAIN_CLASS_NAME" value="Clarusway.Tests.C15_DataProvider" />
-      <option name="METHOD_NAME" value="parameterTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/src/test/java/Clarusway/Tasks/Task_28.xml">
     <configuration name="C16_DataProviderUtilsTest.parameterTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProject" />
       <extension name="coverage">
@@ -192,13 +164,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/MONSTER/IdeaProjects/TestNGProject/src/test/java/Clarusway/Tasks/Task_28.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_28.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/src/test/java/Clarusway/Tasks/Task_28.xml" />
         <item itemvalue="TestNG.C18_DataProviderExel.DataProviderExelTest" />
         <item itemvalue="TestNG.C18_DataProviderExel" />
         <item itemvalue="TestNG.C17_DataProviderFakerUtilsTest.parameterTest" />
         <item itemvalue="TestNG.C16_DataProviderUtilsTest.parameterTest" />
-        <item itemvalue="TestNG.C15_DataProvider.parameterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706660076572</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="31.01.2024">
+      <option name="closed" value="true" />
+      <created>1706732653817</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706732653817</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
