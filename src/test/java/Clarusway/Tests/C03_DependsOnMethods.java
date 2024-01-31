@@ -8,6 +8,7 @@ public class C03_DependsOnMethods {
     - Birinci test methodu başarısız olursa, birinci test methodundaki bağımlı method, yani ikinci test methodu çalışmayacaktır.
     - Bir parametrede bir method veya birden çok method iletilebilir.
     */
+
     @Test
     public void loginTest() {
         System.out.println("Login Test");
@@ -30,11 +31,11 @@ public class C03_DependsOnMethods {
     }
 
     /*
-        independentTest
-        Login Test
-        Homepage Test
-        Smoke Test
-     */
+    independentTest
+    Login Test
+    Homepage Test
+    Smoke Test
+    */
 
 
 }

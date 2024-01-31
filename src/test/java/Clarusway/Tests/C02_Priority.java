@@ -33,12 +33,12 @@ public class C02_Priority {
         System.out.println("Test 05");
     }
 
-            /*
-        Test 05
-        Test 02
-        Test 01
-        Test 04
-        Test 03
-             */
+    /*
+    Test 05
+    Test 02
+    Test 01
+    Test 04
+    Test 03
+    */
 
 }

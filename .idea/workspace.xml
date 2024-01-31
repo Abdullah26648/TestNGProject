@@ -5,33 +5,135 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16708f04-eb31-4945-912f-4e4d8375a043" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/XMLFiles/01_RunningClasses.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XMLFiles/02_MultipleRunningClasses.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XMLFiles/03_CreateXMLPlugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XMLFiles/04_CreateXMLPlugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XMLFiles/05_RunningGroups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_26_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C08_DependsOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C09_AssertionsInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C10_HardAndSoftAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C11_SoftAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C12_XMLFileGroupRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C01_Annotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C01_Annotations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C02_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C02_Priority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C03_DependsOnMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C03_DependsOnMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C04_Enabled.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C04_Enabled.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C05_TimeOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C05_TimeOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C06_Description.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C06_Description.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C07_Groups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C07_Groups.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Utilities/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Kotlin Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2bdgVnAqEcmSaP8Wvd6JxRGCi9b" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C01_Annotations.executor": "Run",
+    "TestNG.C01_Annotations.test02.executor": "Run",
+    "TestNG.C06_Description.executor": "Run",
+    "TestNG.C11_SoftAssertion.executor": "Run",
+    "TestNG.C11_SoftAssertion.softAssertionTest.executor": "Run",
+    "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/01_RunningClasses.xml.executor": "Run",
+    "TestNG.Task_26.executor": "Run",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/05_RunningGroups.xml">
+    <configuration name="C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/01_RunningClasses.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/XMLFiles/01_RunningClasses.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/02_MultipleRunningClasses.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/XMLFiles/02_MultipleRunningClasses.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/03_CreateXMLPlugin.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/XMLFiles/03_CreateXMLPlugin.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/04_CreateXMLPlugin.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/XMLFiles/04_CreateXMLPlugin.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/05_RunningGroups.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/XMLFiles/05_RunningGroups.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/05_RunningGroups.xml" />
+        <item itemvalue="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/04_CreateXMLPlugin.xml" />
+        <item itemvalue="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/03_CreateXMLPlugin.xml" />
+        <item itemvalue="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/02_MultipleRunningClasses.xml" />
+        <item itemvalue="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/01_RunningClasses.xml" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

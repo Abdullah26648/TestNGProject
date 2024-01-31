@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="CW TestNG - Multiple Running Classes"><!-- Önce suit oluşturulur -->
+
+    <test name="Annotation Test"><!-- Sonra test oluşturulur -->
+        <classes>
+            <class name="Clarusway.Tests.C01_Annotations"></class> <!-- Daha sonra çalışacak class oluşturulur -->
+        </classes>
+    </test>
+
+    <test name="Priority - Depends On Test">
+        <classes>
+            <class name="Clarusway.Tests.C02_Priority"></class>
+            <class name="Clarusway.Tests.C03_DependsOnMethods"></class>
+        </classes>
+    </test>
+
+</suite>

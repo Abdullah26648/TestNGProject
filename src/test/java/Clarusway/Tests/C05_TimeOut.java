@@ -12,13 +12,15 @@ public class C05_TimeOut {
         System.out.println("Test 01");
     }
 
-    @Test
-    public void test02() {
+    @Test(timeOut = 3000)
+    public void test02() throws InterruptedException {
+        Thread.sleep(4000);//ThreadTimeoutException --> 'timeOut = 5000' ile belirtilen zaman dolduğu için exception atar
         System.out.println("Test 02");
     }
 
-    @Test
-    public void test03() {
+    @Test(timeOut = 3000)
+    public void test03() throws InterruptedException {
+        Thread.sleep(2000);
         System.out.println("Test 03");
     }
 

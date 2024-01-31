@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="G:/My Drive/IdeaProjects/CWTestNGProject/src/test/java/clarusway/tests/C05_TimeOut.java">
+        <classes>
+            <class name="Clarusway.Tests.C05_TimeOut">
+                <methods>
+                    <include name="test01"/>
+                    <include name="test02"/>
+                    <include name="test03"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="G:/My Drive/IdeaProjects/CWTestNGProject/src/test/java/clarusway/tests/C06_Description.java">
+        <classes>
+            <class name="Clarusway.Tests.C06_Description"> <!-- Yorum -->
+                <methods>
+                    <include name="test01"/>
+                    <include name="test02"/>
+                    <include name="test03"/>
+                    <include name="test04"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

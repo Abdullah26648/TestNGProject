@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Group Run" verbose="1">
+
+    <test name="Group Run 3">
+        <groups>
+            <run>
+                <include name="Group 3"></include> <!-- Çalıştırılacak grubun adı -->
+            </run>
+        </groups>
+        <classes>
+            <class name="Clarusway.Tests.C12_XMLFileGroupRun"></class>
+        </classes>
+    </test>
+
+    <test name="Group Run 1">
+        <groups>
+            <run>
+                <include name="Group 1"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="Clarusway.Tests.C12_XMLFileGroupRun"></class>
+        </classes>
+    </test>
+
+    <test name="Group Run 2">
+        <groups>
+            <run>
+                <include name="Group 2"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="Clarusway.Tests.C12_XMLFileGroupRun"></class>
+        </classes>
+    </test>
+
+</suite>
