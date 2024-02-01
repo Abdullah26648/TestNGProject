@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16708f04-eb31-4945-912f-4e4d8375a043" name="Changes" comment="01.02.2024">
-      <change afterPath="$PROJECT_DIR$/XMLFiles/12_CrossBrowserTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XMLFiles/13_CrossBrowserTestOrangeHR.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XMLFiles/14_ParallelExecution.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XMLFiles/15_ParallelTestThread.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XMLFiles/16_DataProviderTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_28_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C19_CrossBrowserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C20_CrossBrowserTestOrangeHR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C21_ParallelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C22_ParallelTestThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C23_ParallelTestWithParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tests/C24_DataProviderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Utilities/ParameterBrowserTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_29.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/username_password.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/username_password.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_28.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Utilities/DataProviderUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Utilities/DataProviderUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clarusway/Utilities/ParameterBrowserTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clarusway/Utilities/ParameterBrowserTestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,9 +74,11 @@
     "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/13_CrossBrowserTestOrangeHR.xml.executor": "Run",
     "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/14_ParallelExecution.xml.executor": "Run",
     "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/15_ParallelTestThread.xml.executor": "Run",
+    "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/16_DataProviderTest.xml.executor": "Run",
     "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/src/test/java/Clarusway/Tasks/Task_27.xml.executor": "Run",
     "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/src/test/java/Clarusway/Tasks/Task_28.xml.executor": "Run",
     "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/src/test/java/Clarusway/Tasks/Task_28_2.xml.executor": "Run",
+    "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/src/test/java/Clarusway/Tasks/Task_29.xml.executor": "Run",
     "TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/testng.xml.executor": "Run",
     "TestNG.Task_26.executor": "Run",
     "TestNG.Task_27.Task_27.executor": "Run",
@@ -112,47 +99,13 @@
       <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\src\test\java\Clarusway" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\XMLFiles" />
-      <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\src\test\java\Clarusway\Utilities" />
       <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\src\test\java\Clarusway\Tasks" />
       <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\Resources" />
+      <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\XMLFiles" />
+      <recent name="C:\Users\MONSTER\IdeaProjects\TestNGProject\src\test\java\Clarusway\Utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/16_DataProviderTest.xml">
-    <configuration name="C21_ParallelTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Clarusway.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Clarusway.Tests" />
-      <option name="MAIN_CLASS_NAME" value="Clarusway.Tests.C21_ParallelTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C22_ParallelTestThread" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Clarusway.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Clarusway.Tests" />
-      <option name="MAIN_CLASS_NAME" value="Clarusway.Tests.C22_ParallelTestThread" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/src/test/java/Clarusway/Tasks/Task_29.xml">
     <configuration name="C23_ParallelTestWithParameter.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProject" />
       <extension name="coverage">
@@ -165,6 +118,16 @@
       <option name="MAIN_CLASS_NAME" value="Clarusway.Tests.C23_ParallelTestWithParameter" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/12_CrossBrowserTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/XMLFiles/12_CrossBrowserTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -191,13 +154,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/MONSTER/IdeaProjects/TestNGProject/src/test/java/Clarusway/Tasks/Task_29.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/Clarusway/Tasks/Task_29.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/src/test/java/Clarusway/Tasks/Task_29.xml" />
+        <item itemvalue="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/12_CrossBrowserTest.xml" />
         <item itemvalue="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/16_DataProviderTest.xml" />
         <item itemvalue="TestNG.C23_ParallelTestWithParameter.test01" />
         <item itemvalue="TestNG.C:/Users/MONSTER/IdeaProjects/TestNGProject/XMLFiles/15_ParallelTestThread.xml" />
-        <item itemvalue="TestNG.C22_ParallelTestThread" />
-        <item itemvalue="TestNG.C21_ParallelTest" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706736268618</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="01.02.2024">
+      <option name="closed" value="true" />
+      <created>1706819195062</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706819195062</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
