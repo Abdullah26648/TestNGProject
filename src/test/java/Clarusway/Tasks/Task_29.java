@@ -41,7 +41,7 @@ public class Task_29 extends ParameterBrowserTestBase{
 
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("add-note")));
         driver.findElement(By.id("add-note")).click();
-        Thread.sleep(3000);
+        Thread.sleep(2000);
         driver.quit();
 
     }
