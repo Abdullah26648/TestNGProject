@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ParallelTest Suite" parallel="classes" thread-count="5">
+    <!--    parallel: hangi seviyede çalışacağını belirtir. methods seviyesi: Her bir thread bir method alarak çalışır. işi biten thread sıradaki metodu alarak devam eder.-->
+    <!--    classes seviyesi: Her bir thread bir class alarak çalışır. işi biten thread sıradaki class'ı alarak devam eder.-->
+
+    <test verbose="2" preserve-order="true" name="ParallelTest">
+        <classes>
+            <class name="Clarusway.Tests.C21_ParallelTest"></class>
+        </classes>
+    </test>
+</suite>

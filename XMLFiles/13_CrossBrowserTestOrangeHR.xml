@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CrossBrowserTestOrangeHR">
+
+    <test verbose="2" preserve-order="true" name="Firefox CrossBrowserTestOrangeHR">
+        <parameter name="browser" value="firefox"></parameter>
+        <classes>
+            <class name="Clarusway.Tests.C20_CrossBrowserTestOrangeHR"></class>
+        </classes>
+    </test>
+
+    <test verbose="2" preserve-order="true" name="Edge CrossBrowserTestOrangeHR">
+        <parameter name="browser" value="edge"></parameter>
+        <classes>
+            <class name="Clarusway.Tests.C20_CrossBrowserTestOrangeHR"></class>
+        </classes>
+    </test>
+
+    <test verbose="2" preserve-order="true" name="Chrome CrossBrowserTestOrangeHR">
+        <!-- Default olarak chrome kullanılacağı için parametre atamadık -->
+        <classes>
+            <class name="Clarusway.Tests.C20_CrossBrowserTestOrangeHR"></class>
+        </classes>
+    </test>
+
+</suite>

@@ -1,66 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Parameter Test">
-    <test verbose="2" preserve-order="true"
-          name="Parameterized Test1">
-        <parameter name="firstName" value="john"></parameter>
-        <parameter name="lastName" value="doe"></parameter>
-        <parameter name="email" value="john@doe.com"></parameter>
-        <parameter name="password" value="john123"></parameter>
-
+<suite name="CreateUsersSuite">
+    <parameter name="baseUrl" value="https://thinking-tester-contact-list.herokuapp.com/addUser" />
+    <test name="CreateUsersTest">
         <classes>
-            <class name="Clarusway.Tasks.Task_28"></class>
+            <class name="Clarusway.Tasks.Task_28" />
         </classes>
-
     </test>
-    <test verbose="2" preserve-order="true"
-          name="Parameterized Test2">
-        <parameter name="firstName" value="jim"></parameter>
-        <parameter name="lastName" value="sun"></parameter>
-        <parameter name="email" value="jim@sun.com"></parameter>
-        <parameter name="password" value="jim123"></parameter>
-
-        <classes>
-            <class name="Clarusway.Tasks.Task_28"></class>
-        </classes>
-
-    </test>
-    <test verbose="2" preserve-order="true"
-          name="Parameterized Test3">
-        <parameter name="firstName" value="abdullah"></parameter>
-        <parameter name="lastName" value="ozdemir"></parameter>
-        <parameter name="email" value="abdullah@ozdemir.com"></parameter>
-        <parameter name="password" value="abdullah123"></parameter>
-
-        <classes>
-            <class name="Clarusway.Tasks.Task_28"></class>
-        </classes>
-
-    </test>
-    <test verbose="2" preserve-order="true"
-          name="Parameterized Test4">
-        <parameter name="firstName" value="karim"></parameter>
-        <parameter name="lastName" value="benzema"></parameter>
-        <parameter name="email" value="karim@benzema.com"></parameter>
-        <parameter name="password" value="karim123"></parameter>
-
-        <classes>
-            <class name="Clarusway.Tasks.Task_28"></class>
-        </classes>
-
-    </test>
-    <test verbose="2" preserve-order="true"
-          name="Parameterized Test5">
-        <parameter name="firstName" value="maurio"></parameter>
-        <parameter name="lastName" value="icardi"></parameter>
-        <parameter name="email" value="maurio@icardi.com"></parameter>
-        <parameter name="password" value="maurio123"></parameter>
-
-        <classes>
-            <class name="Clarusway.Tasks.Task_28"></class>
-        </classes>
-
-    </test>
-
-
 </suite>
