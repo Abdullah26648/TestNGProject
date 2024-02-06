@@ -34,7 +34,7 @@ public class DataProviderUtils {
 
         return excelUtils.getDataArrayWithoutFirstRow();
     }
-    @DataProvider(parallel = true)
+    @DataProvider()
     public Object[][] ExelDataParallel2() {
 
         ExcelUtils excelUtils = new ExcelUtils("Resources/username_password.xlsx", "Sheet2");
